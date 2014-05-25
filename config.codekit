@@ -7,7 +7,7 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_\/components\/js\/_bootstrap.js",
-		"outputAbbreviatedPath": "\/bootstrap.js",
+		"outputAbbreviatedPath": "\/_\/js\/bootstrap.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
 		"outputStyle": 1,
@@ -1604,17 +1604,6 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/_\/js\/_myscript.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_\/js\/_myscript.js",
-		"outputAbbreviatedPath": "\/_\/js\/min\/_myscript-ck.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
 		},
 	"\/_\/js\/scripts.js": {
 		"fileType": 64,
